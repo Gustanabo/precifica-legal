@@ -1,4 +1,4 @@
-# Termos de Uso / Terms of Use — Precifica
+# Termos de Uso / Terms of Use — Custo Certo: Receitas / Pricify: Recipe Cost
 
 *Última atualização / Last updated: 23/11/2026*
 
@@ -7,10 +7,10 @@
 # 🇧🇷 Português
 
 ## 1. Aceitação
-Ao usar o **Precifica**, oferecido por **Gunabu** (operado por Gustavo Santos), você concorda com estes Termos e com a [Política de Privacidade](privacy-policy.md). Se não concordar, não use o app.
+Ao usar o **Custo Certo: Receitas**, oferecido por **Gunabu** (operado por Gustavo Santos), você concorda com estes Termos e com a [Política de Privacidade](privacy-policy.md). Se não concordar, não use o app.
 
 ## 2. O serviço
-O Precifica ajuda a calcular custos, preços e margens de receitas, controlar estoque e gerar documentos em PDF. Funções básicas funcionam gratuitamente e no seu aparelho. O plano **Precifica PRO** adiciona backup/sincronização na nuvem, estoque com baixa automática, exportação em PDF e sugestões com IA (limite de **50 gerações por mês**).
+O Custo Certo ajuda a calcular custos, preços e margens de receitas, controlar estoque e gerar documentos em PDF. Funções básicas funcionam gratuitamente e no seu aparelho. O plano **Custo Certo PRO** adiciona backup/sincronização na nuvem, estoque com baixa automática, exportação em PDF e sugestões com IA (limite de **50 gerações por mês**).
 
 ## 3. Conta
 Você é responsável pela segurança do seu login e pelas informações fornecidas. Para assinar o PRO é necessário ter conta com e-mail verificado.
@@ -55,10 +55,10 @@ xgustanabo@gmail.com
 # 🇺🇸 English
 
 ## 1. Acceptance
-By using **Precifica**, provided by **Gunabu** (operated by Gustavo Santos), you agree to these Terms and the [Privacy Policy](privacy-policy.md). If you do not agree, do not use the app.
+By using **Pricify: Recipe Cost** (**Custo Certo: Receitas**), provided by **Gunabu** (operated by Gustavo Santos), you agree to these Terms and the [Privacy Policy](privacy-policy.md). If you do not agree, do not use the app.
 
 ## 2. The service
-Precifica helps calculate recipe costs, prices and margins, manage inventory and generate PDF documents. Core features are free and work on your device. **Precifica PRO** adds cloud backup/sync, inventory with automatic deduction, PDF export and AI suggestions (limit of **50 generations per month**).
+Pricify helps calculate recipe costs, prices and margins, manage inventory and generate PDF documents. Core features are free and work on your device. **Pricify PRO** adds cloud backup/sync, inventory with automatic deduction, PDF export and AI suggestions (limit of **50 generations per month**).
 
 ## 3. Account
 You are responsible for your login security and the information you provide. Subscribing to PRO requires an account with a verified email.
