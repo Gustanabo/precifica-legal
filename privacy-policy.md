@@ -1,4 +1,4 @@
-# Política de Privacidade / Privacy Policy — Precifica
+# Política de Privacidade / Privacy Policy — Custo Certo: Receitas / Pricify: Recipe Cost
 
 *Última atualização / Last updated: 23/11/2026*
 
@@ -7,7 +7,7 @@
 # 🇧🇷 Português
 
 ## 1. Quem somos
-O **Precifica** é um aplicativo de precificação, fichas técnicas e controle de estoque para gastronomia e confeitaria, oferecido por **Gunabu**, operado por **Gustavo Santos** ("nós"), que atua como controlador dos dados pessoais descritos aqui.
+O **Custo Certo: Receitas** (também chamado de **Custo Certo** no app e **Pricify: Recipe Cost** em inglês) é um aplicativo de precificação, fichas técnicas e controle de estoque para gastronomia e confeitaria, oferecido por **Gunabu**, operado por **Gustavo Santos** ("nós"), que atua como controlador dos dados pessoais descritos aqui.
 
 **Contato (privacidade e exclusão de dados):** xgustanabo@gmail.com
 
@@ -15,7 +15,7 @@ O **Precifica** é um aplicativo de precificação, fichas técnicas e controle 
 | Dado | Quando | Finalidade |
 |---|---|---|
 | **E-mail e credenciais de login** (e-mail/senha ou conta Google) | Ao criar conta ou entrar | Autenticar você e proteger sua conta |
-| **Ingredientes, receitas, fotos, locais e estoque** | Sempre guardados no seu aparelho. Enviados à nuvem **somente** se você for assinante **Precifica PRO** | Funcionamento do app; backup e sincronização entre aparelhos (PRO) |
+| **Ingredientes, receitas, fotos, locais e estoque** | Sempre guardados no seu aparelho. Enviados à nuvem **somente** se você for assinante **Custo Certo PRO** | Funcionamento do app; backup e sincronização entre aparelhos (PRO) |
 | **Preferências** (idioma, moeda, tema) | Conta logada | Restaurar suas preferências ao entrar |
 | **Dados de assinatura** (plano, datas de início e fim, renovação) | Ao assinar o PRO | Liberar funções PRO. O pagamento é processado pela Google Play; **não** recebemos dados do seu cartão |
 | **Contagem de uso da IA** | Uso da IA (PRO) | Aplicar o limite mensal de gerações |
@@ -49,7 +49,7 @@ Usamos autenticação, regras de acesso por usuário no banco de dados e criptog
 ## 7. Seus direitos (LGPD e GDPR)
 Você pode solicitar: confirmação do tratamento, acesso, correção, portabilidade, anonimização/eliminação, informação sobre compartilhamento, revogação de consentimento e oposição. Escreva para **xgustanabo@gmail.com**; respondemos em até 15 dias. Você também pode reclamar à **ANPD** (Brasil) ou à autoridade de proteção de dados do seu país.
 
-**Como excluir sua conta e dados:** envie e-mail ao contato acima, a partir do e-mail cadastrado, com o assunto "Excluir minha conta Precifica".
+**Como excluir sua conta e dados:** diretamente no aplicativo em **Configurações → Excluir minha conta** (apaga imediatamente seu login e aciona a exclusão automática dos seus dados na nuvem), ou enviando e-mail ao contato acima, a partir do e-mail cadastrado, com o assunto "Excluir minha conta Custo Certo".
 
 ## 8. Crianças
 O app não é direcionado a menores de 13 anos. Menores de 18 devem usar com autorização de um responsável.
@@ -65,7 +65,7 @@ Podemos atualizar esta política; a data no topo indica a versão vigente. Mudan
 # 🇺🇸 English
 
 ## 1. Who we are
-**Precifica** is a pricing, recipe costing and inventory app for food businesses, provided by **Gunabu**, operated by **Gustavo Santos** ("we"), the controller of the personal data described here.
+**Pricify: Recipe Cost** (also known as **Custo Certo: Receitas** in Portuguese) is a pricing, recipe costing and inventory app for food businesses, provided by **Gunabu**, operated by **Gustavo Santos** ("we"), the controller of the personal data described here.
 
 **Contact (privacy and data deletion):** xgustanabo@gmail.com
 
@@ -73,7 +73,7 @@ Podemos atualizar esta política; a data no topo indica a versão vigente. Mudan
 | Data | When | Purpose |
 |---|---|---|
 | **Email and sign-in credentials** (email/password or Google account) | When you sign up or sign in | Authenticate you and secure your account |
-| **Ingredients, recipes, photos, locations and stock** | Always stored on your device. Sent to the cloud **only** if you are a **Precifica PRO** subscriber | App functionality; backup and multi-device sync (PRO) |
+| **Ingredients, recipes, photos, locations and stock** | Always stored on your device. Sent to the cloud **only** if you are a **Pricify PRO** subscriber | App functionality; backup and multi-device sync (PRO) |
 | **Preferences** (language, currency, theme) | Signed-in account | Restore your preferences when you sign in |
 | **Subscription data** (plan, start/end dates, renewal) | When you subscribe to PRO | Unlock PRO features. Payment is processed by Google Play; we **do not** receive your card data |
 | **AI usage counter** | When you use AI (PRO) | Enforce the monthly generation limit |
@@ -107,7 +107,7 @@ We use authentication, per-user database access rules and encryption in transit.
 ## 7. Your rights (GDPR / LGPD)
 You may request access, correction, deletion, portability, restriction or objection, information about sharing, and withdrawal of consent. Email **xgustanabo@gmail.com**; we reply within 30 days. You may also complain to your local data protection authority (e.g., ANPD in Brazil, or your EU/EEA supervisory authority).
 
-**How to delete your account and data:** email us at the address above from your registered email with the subject "Delete my Precifica account".
+**How to delete your account and data:** directly inside the app under **Settings → Delete my account** (immediately deletes your sign-in and triggers automatic removal of your cloud data), or by emailing us at the address above from your registered email with the subject "Delete my Pricify account".
 
 ## 8. Children
 The app is not directed to children under 13. Users under 18 should use it with a parent or guardian's permission.
